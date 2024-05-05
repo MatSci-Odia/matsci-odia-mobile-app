@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Welcome To MatSci Odia</Text>
+      <Text>Welcome To MatSci Odia !</Text>
       <StatusBar style="auto" />
     </View>
   );
